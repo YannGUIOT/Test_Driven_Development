@@ -1,4 +1,5 @@
 require_relative '../lib/word_counter'
+dictionnary = ["below", "down", "go", "going", "horn", "how", "howdy", "it", "i", "low", "own", "part", "partner", "sit"]
 
 describe "the word counter" do
     it "have to return that:" do
