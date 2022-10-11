@@ -24,7 +24,5 @@ def word_counter(str,dictionnary)
     return Hash[my_dictionnary.zip my_words_count]
 end
 
-print word_counter("below",dictionnary)
-#print word_counter("Howdy partner, sit down! How's it going?",dictionnary)
-# print word_counter("Jean-Baptiste, aime le saucisson! but? he prefer to go lowness spoutnit pingoing down with his partner's to horn childrens at school", dictionnary)
-# puts
+# print word_counter("below",dictionnary)
+# print word_counter("Howdy partner, sit down! How's it going?",dictionnary)
